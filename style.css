@@ -1,0 +1,62 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+.title1 {
+    color: rgb(43, 226, 202);
+}
+#title2 {
+    color: blueviolet;
+}
+
+.my-btn{
+    background-color: rgba(58, 92, 195, 0.932);
+    border: none;
+    padding: 0.4em 0.8em;
+    border-radius: 17px;
+    color: aliceblue;
+}
+.my-btn:hover{
+    background-color: aliceblue;
+    color: blue ;
+}
+.button {
+    border: 2px solid rgba(23, 119, 208, 0.884);
+    padding: 0.7em 1.5em;
+    border-radius: 16px;
+    background-color: aliceblue;
+    color:  rgba(23, 119, 208, 0.884);
+}
+.button:hover{
+    background-color: rgba(193, 241, 109, 0.884);
+    color:rgb(196, 60, 182);
+}
+
+.table{
+    border-collapse: collapse;
+}
+.table td {
+    padding: 0.3em;
+    
+}
+.table tr:nth-child(even){
+    background-color: aqua;
+}
+.card {
+    background-color: antiquewhite;
+    width: 30em;
+}
+.card .content{
+    padding: 1em 2em;
+}
+
+.title4 {
+    font-size: 30px;
+}
+.description {
+    padding-top: 3em;
+    padding-left: 0.5em;
+}
+.img {
+    padding: 2em;
+}
